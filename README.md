@@ -1,6 +1,6 @@
 ### Welcome to your very own Ray on Domino quick-start project!
 
-*Example Quick-Start Project I created from scratch to drive sales & user engagement for a former company*
+*Example Quick-Start Project I created from scratch to drive sales & user engagement for a former MLOps company.*
 
 Ray is a extensive distributed computing library of tools for parallel and distributed applications.  Ray provides:
 
